@@ -1,0 +1,37 @@
+{
+    "manifest": {
+        "author": "mimikumishikata",
+        "name": "SakuyaBright",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/afieldoflilies\/Entrapment-Discord-Theme-\/main\/illust_120132039_20240630_142459.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/raw.githubusercontent.com\/aaaaaaaaaaaaaaaaaaaaanooooooooooooooo\/Entrapment-Discord-Theme-\/main\/Alepo.otf"
+    },
+    "simple_colors": {
+        "background": -6907235,
+        "background_secondary": -5788755,
+        "mention_highlight": 2102105045,
+        "input_background": -6378827,
+        "blocked_bg": -8355712,
+        "accent": -5655114,
+        "statusbar": -5851973
+    },
+    "colors": {
+        "white_500": -855310,
+        "primary_dark_360": -2500135,
+        "primary_dark_330": -2500135,
+        "primary_600": -5000269,
+        "link": -7363666,
+        "link_500": -16496271
+    },
+    "drawable_tints": {
+        "ic_channel_text": -4269840,
+        "ic_channel_announcements_locked": -4269840,
+        "ic_channel_announcements_nsfw": -4269840,
+        "ic_channel_text_locked": -4269840
+    },
+    "raws": {}
+}
